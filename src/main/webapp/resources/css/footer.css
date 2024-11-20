@@ -1,0 +1,13 @@
+body, html {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.container-fluid {
+    flex: 1; /* Força o conteúdo principal a ocupar o espaço necessário */
+}
+
+.footer {
+    margin-top: auto;
+}
