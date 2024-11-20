@@ -74,7 +74,19 @@ To set up and run the project locally, follow these steps:
 
 ## Screenshots
 
+Homepage:
+
 ![homepage-screenshot](homepage.PNG)
+
+Investiment page:
+
+![table-screenshot](table.PNG)
+
+Dashboard page:
+
+![dashboard-screenshot](dashboard.PNG)
+
+
 
 ## Academic Context
 
