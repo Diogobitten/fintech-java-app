@@ -74,7 +74,7 @@ To set up and run the project locally, follow these steps:
 
 ## Screenshots
 
-(to be added)
+![homepage-screenshot](homepage.PNG)
 
 ## Academic Context
 
